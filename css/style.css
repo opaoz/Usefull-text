@@ -1,0 +1,13 @@
+.container {
+    padding-top: 15px;
+}
+textarea {
+    resize: none;
+}
+ul ul {
+    margin-left: 30px;
+    margin-bottom: 0 !important;
+}
+.head {
+    font-weight: bold;
+}
